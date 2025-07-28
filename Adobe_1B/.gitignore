@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.dll
+*.lib
+*.so
+*.bin
+*.h5
+*.zip
+*.tar.gz
+*.egg-info/

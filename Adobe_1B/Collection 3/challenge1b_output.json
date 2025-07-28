@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1 (1).pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Instructions: o Roast bell peppers until charred, then peel ",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "o Blend mashed eggplant, tahini, lemon juice, minced garlic,",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "juice o 2 cloves garlic o 1/4 cup olive oil o 1 teaspoon sal",
+            "importance_rank": 3,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "cup parsley o 1 teaspoon cumin o 1 teaspoon coriander o 1 te",
+            "importance_rank": 4,
+            "page_number": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Serve immediately. Fruit and Nut Bars Ingredients: • 1 cup d",
+            "importance_rank": 5,
+            "page_number": 15
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Instructions: o Roast bell peppers until charred, then peel and seed. o Blend peppers, walnuts, breadcrumbs, minced garlic, olive oil, pomegranate molasses, cumin, and salt in a food processor until smooth. o Serve with pita bread. Mutabal • Ingredients: o 2 eggplants o 1/4 cup tahini o 1/4 cup",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. o Slowly add olive oil while blending until smooth. o Serve with a drizzle of olive oil. Naan • Ingredients: o 2 1/4 teaspoons active dry yeast o 1 teaspoon sugar o 1/2 cup warm water o 2 1/2 cups flour o 1/2",
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "juice o 2 cloves garlic o 1/4 cup olive oil o 1 teaspoon salt • Instructions: o Roast eggplants until soft, then peel and mash. o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. o Slowly add olive oil while blending until smooth. o Serve with a drizzle of",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "cup parsley o 1 teaspoon cumin o 1 teaspoon coriander o 1 teaspoon salt o 1/4 cup flour o Oil for frying • Instructions: o Drain and rinse chickpeas. o Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, and salt in a food processor. o Add flour and mix until combined. o",
+            "page_number": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Serve immediately. Fruit and Nut Bars Ingredients: • 1 cup dates, pitted • 1 cup mixed nuts • 1/4 cup dried fruit • 1 tablespoon honey Instructions: • In a food processor, combine dates, mixed nuts, dried fruit, and honey. • Process until the mixture comes together. • Press the mixture into a",
+            "page_number": 15
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+﻿venv
+__pycache__
+*.pdf
+*.zip
+*.tar
+*.gz
+*.pt
+*.pth
